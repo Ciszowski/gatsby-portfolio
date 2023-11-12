@@ -12,7 +12,7 @@ export default function Home({ data }) {
         <div>
           <h2>Design</h2>
           <h3>Develop & Deploy</h3>
-          <p>UX designer & web developer based in Manchester.</p>
+          <p>UX designer & web developer based in Montréal.</p>
           <Link to='/projects' className={styles.btn}>
             My PortFolio Projects
           </Link>
