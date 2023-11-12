@@ -29,9 +29,9 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: 'Web Warrrior',
+    title: 'Anthony Ciszowski',
     description: 'web dev portfolio',
-    copyright: 'This website is copyright 2021 web warrior',
+    copyright: 'This website is copyright 2023',
     contact: 'me@contact.fr',
   },
 };
